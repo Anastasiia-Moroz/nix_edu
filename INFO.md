@@ -1,2 +1,2 @@
-it is INFO file
-new line
+new text
+experiment with amend
